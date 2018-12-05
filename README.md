@@ -14,7 +14,6 @@ input file standart:
 <num> - size of board (N = root(N,N) ) 
  
  
- sdf
 <0,1,2...,N^2> - initial state as sequence of numbers.
                  you can order them as you want.
                  "0" means empty square
